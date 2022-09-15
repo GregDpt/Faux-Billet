@@ -1,2 +1,2 @@
 # Faux-Billet
-detection de faux billets
+detection de faux billets et automatisation
